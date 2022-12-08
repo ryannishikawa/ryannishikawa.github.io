@@ -25,4 +25,4 @@ My GitHub page is http://github.com/ryannishikawa.
 
 * Lab 12
 
-    Lab 12 was a favorite because I got to use GraphicsMagick again. This time, to create a gif. I had to use a lot of the things I had learnt in past labs and figuring out how to get everything to work was a bit confusing but finally solving it felt good.
+    Lab 12 was a favorite because I got to use GraphicsMagick again. This time, to create a gif. I had to use a lot of the things I had learnt in past labs and figuring out how to get everything to work was a bit confusing but finally solving it felt good.# ryannishikawa.github.io
