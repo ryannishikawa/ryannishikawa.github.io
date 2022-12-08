@@ -20,6 +20,8 @@ My GitHub page is http://github.com/ryannishikawa.
 
     Lab 10, part 3 was a favorite because I got to use GraphicsMagick to create a gradient image. I had wrote code to alter images while learning Java but never expolred it to deeply. However, it is something that interests me and I had a good time figuring out how to use it in this way. 
 
+![The gradient image from Lab 10](images/gradient.png)
+
 * Lab 11
 
     Lab 11, part 2 was a favorite because I didn't know that pseudo random number generators weren't so random and making them even more random was enjoyable. I also didn't really understand seeding too well but doing this lab cleared that up for me. I also had a bit of fun playing the hilo game after finishing the lab.
